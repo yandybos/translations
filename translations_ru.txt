@@ -1,9 +1,9 @@
 en:  "Loading latest creature data..",
-ru:  "",   
+ru:  "Загрузка последних данных существ...",
 
 //Menu entries
 en:  "Pro Version (Ad free)",
-ru:  "",   
+ru:  "Расширенная версия (без рекламы)",     
 en:  "Dashboard", 
 ru:  "", //NEW   
 en:  "Taming Calculator",

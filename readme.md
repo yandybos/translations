@@ -38,6 +38,6 @@ In case you come across a part of the app that is not yet translated, please [op
 | nl | Dutch | 0% |
 | pl | Polish | 10% |
 | pt | Portuguese | 0% |
-| ru | Russian | 100% |
+| ru | Russian | **100%** |
 | tr | Turkish | 0% |
 | zh | Chinese (Simplified) | 0% |
